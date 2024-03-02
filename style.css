@@ -1,0 +1,31 @@
+h2 {
+  text-align: center;
+  padding-bottom: 20px;
+  color: red;
+}
+
+#click_btn {
+  background-color: #f3cddd;
+  color: rgb(6, 3, 3);
+  border: solid black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  /* height: 50px; */
+  width: 10%;
+  display: grid;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+
+#click_btn:hover {
+  background-color: #5e85af;
+}
+
+#marqtext {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  position: relative;
+  padding: 5%;
+  font-size: x-large;
+}
